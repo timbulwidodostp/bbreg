@@ -1,6 +1,8 @@
 # bbreg
 Bessel regression via EM - Model selected via Discrimination test (DBB) models Use bbreg With (In) R Software
 
+https://www.youtube.com/watch?v=pXmx_ewvXCk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
